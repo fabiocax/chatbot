@@ -2,7 +2,7 @@
 AI Based Chatbot
 
 ### Requirements
-    Python = 2.x.x
+    Python => 2.7.x 
     Flask
     Aiml
     pip
@@ -24,9 +24,3 @@ AI Based Chatbot
 
 5. You're done and let's chat with your Robot via browser.
 
-## Screenshot
-![chatbot](https://user-images.githubusercontent.com/1708683/27002771-68618802-4e0b-11e7-870a-3c05e3f68146.png)
-
-## Author
-
-[Sohel Amin](http://www.sohelamin.com)
